@@ -1,0 +1,118 @@
+Education Level	Male_Suicides	Female_Suicides	Year
+No Education	15532	12974	2000
+Primary	16818	11693	2000
+Middle	15856	9174	2000
+Matriculate / Secondary	11148	5602	2000
+Hr.Sec. / Intermediate / Pre-university	4509	2180	2000
+Diploma	650	249	2000
+Graduate	1208	540	2000
+Post Graduate and Above	311	149	2000
+Total	66032	42561	2000
+No Education	15908	12817	2001
+Primary	16782	11285	2001
+Middle	15767	9143	2001
+Matriculate / Secondary	10898	5486	2001
+Hr.Sec. / Intermediate / Pre-university	4356	2391	2001
+Diploma	905	294	2001
+Graduate	1286	584	2001
+Post Graduate and Above	412	192	2001
+Total	66314	42192	2001
+No Education	16069	12373	2002
+Primary	17203	10829	2002
+Middle	16876	8606	2002
+Matriculate / Secondary	12025	5915	2002
+Hr.Sec. / Intermediate / Pre-university	4852	2379	2002
+Diploma	768	328	2002
+Graduate	1230	546	2002
+Post Graduate and Above	309	109	2002
+Total	69332	41085	2002
+No Education	15108	10856	2003
+Primary	18223	10792	2003
+Middle	16475	9028	2003
+Matriculate / Secondary	12538	6004	2003
+Hr.Sec. / Intermediate / Pre-university	5509	2846	2003
+Diploma	631	275	2003
+Graduate	1445	659	2003
+Post Graduate and Above	292	170	2003
+Total	70221	40630	2003
+No Education	15690	11226	2004
+Primary	17996	10667	2004
+Middle	17491	9232	2004
+Matriculate / Secondary	13313	5947	2004
+Hr.Sec. / Intermediate / Pre-university	5678	2968	2004
+Diploma	601	241	2004
+Graduate	1430	588	2004
+Post Graduate and Above	452	177	2004
+Total	72651	41046	2004
+No Education	15244	10990	2005
+Primary	17978	11356	2005
+Middle	18207	9111	2005
+Matriculate / Secondary	13369	5755	2005
+Hr.Sec. / Intermediate / Pre-university	5609	2792	2005
+Diploma	815	248	2005
+Graduate	1406	628	2005
+Post Graduate and Above	288	118	2005
+Total	72916	40998	2005
+No Education	14763	10402	2006
+Primary	17614	10889	2006
+Middle	19061	9916	2006
+Matriculate / Secondary	14551	6903	2006
+Hr.Sec. / Intermediate / Pre-university	7002	3409	2006
+Diploma	851	186	2006
+Graduate	1595	604	2006
+Post Graduate and Above	265	101	2006
+Total	75702	42410	2006
+No Education	15607	11165	2007
+Primary	19367	11484	2007
+Middle	19671	10023	2007
+Matriculate / Secondary	15030	6519	2007
+Hr.Sec. / Intermediate / Pre-university	6885	3105	2007
+Diploma	846	232	2007
+Graduate	1632	720	2007
+Post Graduate and Above	257	94	2007
+Total	79295	43342	2007
+No Education	15335	10585	2008
+Primary	19730	11944	2008
+Middle	19492	10187	2008
+Matriculate / Secondary	15319	7069	2008
+Hr.Sec. / Intermediate / Pre-university	7560	3534	2008
+Diploma	777	218	2008
+Graduate	1983	794	2008
+Post Graduate and Above	348	142	2008
+Total	80544	44473	2008
+No Education	16157	11081	2009
+Primary	18831	10968	2009
+Middle	19695	10449	2009
+Matriculate / Secondary	15908	7812	2009
+Hr.Sec. / Intermediate / Pre-university	7425	3769	2009
+Diploma	817	344	2009
+Graduate	1938	948	2009
+Post Graduate and Above	700	309	2009
+Total	81471	45680	2009
+No Education	16058	10644	2010
+Primary	22386	13044	2010
+Middle	20290	10267	2010
+Matriculate / Secondary	16516	8065	2010
+Hr.Sec. / Intermediate / Pre-university	7735	3784	2010
+Diploma	996	353	2010
+Graduate	2273	991	2010
+Post Graduate and Above	926	271	2010
+Total	87180	47419	2010
+No Education	16467	10571	2011
+Primary	20590	11781	2011
+Middle	21435	11344	2011
+Matriculate / Secondary	17467	8190	2011
+Hr.Sec. / Intermediate / Pre-university	8099	4132	2011
+Diploma	1021	363	2011
+Graduate	2300	1122	2011
+Post Graduate and Above	460	243	2011
+Total	87839	47746	2011
+No Education	16409	10232	2012
+Primary	19787	11301	2012
+Middle	20748	10457	2012
+Matriculate / Secondary	17692	8275	2012
+Hr.Sec. / Intermediate / Pre-university	8792	4297	2012
+Diploma	1391	652	2012
+Graduate	3072	1500	2012
+Post Graduate and Above	562	278	2012
+Total	88453	46992	2012
